@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/header.png" alt="Sumit at the desk" width="820" />
+
 # Sumit Shinde
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=Payment+infrastructure+for+AI+agents;Full-stack+%C2%B7+Web3+%C2%B7+Multi-agent+systems;Building+AgntPymt+from+Singapore)](https://github.com/SumitShinde0702)
