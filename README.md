@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.gif" alt="Sumit typing at the desk" width="820" />
+<img src="./assets/typing1.gif" alt="Sumit typing at the desk" width="820" />
 
 # Sumit Shinde
 
